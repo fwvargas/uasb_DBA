@@ -1,0 +1,5 @@
+Pregunta 3 de la seccion MANTENIMIENTO
+--------------------------------------
+
+pg_dump con la opcion -a optiene la informacion de la base de datos
+pg_dump con la opcion -v (verbose) optiene toda la estructura de la base de datos
